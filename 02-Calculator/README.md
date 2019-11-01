@@ -1,12 +1,12 @@
 # Calculator
 
-### 1. Compilar el programa
+### 1. Compile the program
 
 ```shell
 $ gcc main.c -o main.out
 ```
 
-### 2. Ejecutar el programa una vez compilado
+### 2. Execute the program
 
 ```shell 
 $ ./main.out
