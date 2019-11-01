@@ -1,3 +1,3 @@
-# Laboratorio de C
+# C Language Laboratory
 
-Laboratorio general de lenguaje C
+Main laboratory of language C
