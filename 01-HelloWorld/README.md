@@ -1,12 +1,12 @@
 # Hello World
 
-### 1. Compilar el programa
+### 1. Compile the program
 
 ```shell
 $ gcc helloworld.c -o helloworld.out
 ```
 
-### 2. Ejecutar el programa una vez compilado
+### 2. Execute the program
 
 ```shell 
 $ ./helloworld.out
